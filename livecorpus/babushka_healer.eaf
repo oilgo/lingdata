@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-23T23:45:29+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/zinol/Downloads/Telegram Desktop/бабУшка.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../Downloads/Telegram Desktop/бабУшка.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:13618f2c-17b5-47d8-b73e-92887f489029</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">64</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="4890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="12290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="13930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="22420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="24180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="26630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="29240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="32480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="32995"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="36725"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="37135"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="41480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="42262"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="48237"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="49540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="60390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="61190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="65110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="66105"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="76782"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="77117"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="80947"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="81600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="83630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="83750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="84100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="84220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="84610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="85010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="89430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="89505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="91560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="91730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="92122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="92450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="93830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="93960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="95780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="97670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="97870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="98520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="104170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="104980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="115360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="117945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="124140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="124520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="129860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="130740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="137050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="138720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="145850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="147310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="154390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="155930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="161560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="162470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="177500"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="me" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@aa1940f" TIER_ID="text@aa1940f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>так что это ничего-то / это надо очень глубоко верить / самое главное / если не веришь / если не веришь / то это все бесполезно // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>надо / вот все говорят / молодые де никакого бога нет / никаких бесей нет / но это неправда  / и бог есть и беси есть //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>вот так что / надо кресты носить //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>все это есть / и бог есть / самое главное / бог есть //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>вот я сижу обедаю / один раз было / да не один раз //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>сижу обедаю / зубов нет / пришла соседка / вон нон / нет ее теперь //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>я сижу и думаю / как / как она чай / думает / жрет // только ложки свистят //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>я / он-она / мы с ней поболтали / я кончила // хе-хе / кончила кушать / она ушла / я слегла / у меня температура / меня рвать начало //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ну я чувствую / что я удумала / батюшки / надо спрыскивать меня ведь //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>пошла к ней / говорю / вот / все ей рассказала она говорит / ну ладно / лежи / я скоро приду / я вроде задремала / она пришла / как / спрыснет меня / я / ууу / испугалась // и все прошло //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>так она прочитала три раза богородицу / и спрыснула меня / святой водичкой //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>так она меня не глазила / это я подумала / только / нехорошо / сама виновата //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>так да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>да-а-а / я про себя подумала / она чай дума.. / она чай думает / как жрет бабушка-то / как она жрет / ложки только свистят / у нее // хи-хи / я и захворала //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>вот это было / ну-у / это-то-то / ле-лечимое такое дело / вот я все и боюсь / что теперь / вон дети придут / и я уж стараюсь-со / с ими не садиться а то / опять / удумаюсь а лечить-то некому //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>хе-хе / кто меня будет / спрыскивать-то / молодые те молитву ту никто не знает / надо на бумажину будет списывать / а самое главное / я не видала ее и не ожидала / она подкралась ко мне / иии / меня спрыснула // хе-хе / кто меня будет / спрыскивать-то / молодые те молитву ту никто не знает / надо на бумажину будет списывать / а самое главное / я не видала ее и не ожидала / она подкралась ко мне / иии / меня спрыснула // хе-хе / кто меня будет / спрыскивать-то / молодые те молитву ту никто не знает / надо на бумажину будет списывать / а самое главное / я не видала ее и не ожидала / она подкралась ко мне / иии / меня спрыснула // хе-хе / кто меня будет / спрыскивать-то / молодые те молитву ту никто не знает / надо на бумажину будет списывать / </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>а самое главное / я не видала ее и не ожидала / она подкралась ко мне / иии / меня спрыснула //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>так / не знаю // кто / у кого было так / вот у меня не было / детишки все умные были //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>самое главное / младенцев не надо никогда на их / ни кричать возле-е / не надо / кричать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>можешь напугать / ребенка-то / у нас одна вон / николай петрович тоже / тетю #нрзб помнишь //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>у их Щепалов был Вовка // он боялся / маленького / эээ / боялся // он не слушался / аоа / а она кричит /  вон / дядя коля / сейчас тебя в мешок заберет / в лес отнесет / он стал заикаться / с тем ведь и умер / заикой был / не вылечили его // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="me" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@a1970f" TIER_ID="text@a1970f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>это та же / это та же / которая сглазила? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>то есть это //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>то есть / сам человек / себя тоже может / вот / сглазить? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>она подумала / что ты подумала //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>а вот от крика / ээ / лечили вот / детей / от крика вот / ээ / если не спит долго // ну / ночами //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="me" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@b1970m" TIER_ID="text@b1970m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>вы / про себя подумали / плохо-то? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>ааа //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="me" LINGUISTIC_TYPE_REF="translation"
+        PARENT_REF="text@aa1940f" PARTICIPANT="@aa1940f" TIER_ID="trans@aa1940f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> So that is it. You have to believe very deeply, it is the main thing. If you do not believe, if you do not believe, everything is useless.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>You have to.... Everybody is saying, the youth, that there is no God and no demons, but it is not true. God exists and demons exist.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>That's it, so... It is necessary to wear crosses.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>It all exists, and God exists, it is the main thing, that God exists.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Once, well, even not once, I was sitting and having dinner.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>I was eating, and I have no teeth. My neighbour came in. Now she's dead.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>I thought that she thought: she's eating so fast.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>I talked to her a little bit and finished my dinner. She went away and I came down with a disease. I had a fever and started vomiting.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>So I realised that I had thought bad things. "Oh my God", - I thought - "I have to be sprinkled".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>I came to her and said... I told her everything and she said: "Well, lie down, I'll be back soon". I kind of dozed off. She came back and suddenly sprinkled me. I got afraid. And I recovered.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Well, she prayed to Virgin Mary three times and sprinkled me with Saint water.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>But she didn't jinx me, that was me who thought bad things. I am guilty.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Well yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Yes, I thought about myself. I wondered that she thought: "The granny's eating so fast, spoon by spoon". So I got ill.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>That was it. Well, that is a treatable case. I'm afraid that... When children come, I try not to sit with them, otherwise I may think badly again, and nobody will cure me.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Who will sprinkle me? The youth don't not that prayer. I should write it on paper. And the main thing was that I didn't see her and didn't expect. She snuck up to me and sprinkled. Who will sprinkle me? The youth don't not that prayer. I should write it on paper. And the main thing was that I didn't see her and didn't expect. She snuck up to me and sprinkled. Who will sprinkle me? The youth don't not that prayer. I should write it on paper. And the main thing was that I didn't see her and didn't expect. She snuck up to me and sprinkled. Who will sprinkle me? The youth don't not that prayer. I should write it on paper.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>And the main thing was that I didn't see her and didn't expect. She snuck up to me and sprinkled.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>Well... I don't know... Don't know who had such problems. I didn't. My kids were smart.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>The main thing is that you musn't yell at infants.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>You may frighten a kid. We had one here... Nikolay Petrovich as well... Do you remember #indistinct?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>There was Vovka Schepalov. He was afraid of a small... He was afraid. He misbehaved, and she shouted: 'Uncle Kolya will put you into a sack and will take you to the forest'. And he started stuttering. And died like that, a stutterer. He wasn't healed.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="me" LINGUISTIC_TYPE_REF="translation"
+        PARENT_REF="text@a1970f" PARTICIPANT="@a1970f" TIER_ID="trans@a1970f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Was that the one who jinxed you?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>So....</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>So the person can jinx himself?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>She thought that you thought...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Have you cured children from shouting? When a child can't fall asleep at night.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="me" LINGUISTIC_TYPE_REF="translation"
+        PARENT_REF="text@b1970m" PARTICIPANT="@b1970m" TIER_ID="trans@b1970m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>You thought badly about yourself?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>Aah...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
