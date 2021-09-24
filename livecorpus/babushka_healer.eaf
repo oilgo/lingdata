@@ -194,7 +194,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
                 TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
-                <ANNOTATION_VALUE>можешь напугать / ребенка-то / у нас одна вон / николай петрович тоже / тетю #нрзб помнишь //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>можешь напугать / ребенка-то / у нас одна вон / николай петрович тоже / тетю #нрзб# помнишь //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -356,7 +356,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a61">
-                <ANNOTATION_VALUE>You may frighten a kid. We had one here... Nikolay Petrovich as well... Do you remember #indistinct?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>You may frighten a kid. We had one here... Nikolay Petrovich as well... Do you remember #indistinct#?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
